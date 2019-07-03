@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Kana-Trainer.jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Kana-Trainer</output-path>
+    <root id="archive" name="Kana-Trainer.jar.jar">
+      <element id="module-output" name="Kana-Trainer" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
